@@ -33,7 +33,5 @@ Sarah Zhang - sarah.s.zhang@vanderbilt.edu
 
 Ethan Piper - ethan.b.piper@vanderbilt.edu
 
-Project Link: [https://github.com/sarah-s-zhang/startup-investments](https://github.com/sarah-s-zhang/startup-investments)
-
 ## Acknowledgements
 * Dr. Singh, our CS 3265 professor.
